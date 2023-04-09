@@ -1,16 +1,16 @@
 ### 👋 Hey there
 
-I'm Toby, a second-year Maths & CS undergrad @ Oxford.
+I'm Toby, a second-year Maths & CS undergrad @ Oxford Uni.
 
 Some info about me:
 - Recently hooked on hackathons (like [Polygon x EasyA](https://www.easya.io/event/polygon-x-easya-hackathon), Oxhack and [ETHDenver](https://www.easya.io/event/polygon-x-easya-hackathon))
-- Maintaining some fun projects in my spare time (plug [cylinderchess.com](https://cylinderchess.com))!
+- Maintaining some fun projects in my spare time (plug: [cylinderchess.com](https://cylinderchess.com))
 - Consuming too much coffee ☕️, climbing trees 🌳 and spending lots of time with my dog 🦮
-- Working on [LensPy](https://github.com/TobiasLoader/LensPy), a py library for Lens Protocol (web3 social) – go check [Lens Protocol](https://www.lens.xyz) out
+- Working on [LensPy](https://github.com/TobiasLoader/LensPy), a Python library for Lens Protocol (web3 social) – go check [Lens Protocol](https://www.lens.xyz) out
 
 ---
 
-*Open source function to help you navigate Github profiles:*
+*Open source function to aid navigation of GitHub profiles:*
 
 ```javascript
 
