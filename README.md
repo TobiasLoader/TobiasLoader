@@ -3,7 +3,7 @@
 I'm Toby, a second-year Maths & CS undergrad @ Oxford Uni.
 
 Some info about me:
-- Recently hooked on hackathons (like [Polygon x EasyA](https://www.easya.io/event/polygon-x-easya-hackathon), Oxhack and [ETHDenver](https://www.easya.io/event/polygon-x-easya-hackathon))
+- Recently hooked on hackathons (like [Polygon x EasyA](https://www.easya.io/event/polygon-x-easya-hackathon), Oxhack, [ETHDenver](https://www.easya.io/event/polygon-x-easya-hackathon), [ETHGlobal Waterloo](https://ethglobal.com/showcase/tokenbound-titans-5w6oq))
 - Maintaining some fun projects in my spare time (plug: [cylinderchess.com](https://cylinderchess.com))
 - Consuming too much coffee ☕️, climbing trees 🌳 and spending lots of time with my dog 🦮
 - Working on [LensPy](https://github.com/TobiasLoader/LensPy), a Python library for Lens Protocol (web3 social) – go check [Lens Protocol](https://www.lens.xyz) out
