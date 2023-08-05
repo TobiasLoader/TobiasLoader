@@ -14,21 +14,21 @@ Some info about me:
 
 ```javascript
 
-let me = new Visitor();
+let you = new Visitor();
 
 function viewProfile(profile){
   // determine if profile is worth viewing
-  if (me.interested(profile) || profile.name === 'TobiasLoader'){
+  if (you.interested(profile) || profile.name === 'TobiasLoader'){
     // scroll down to view repos
-    me.scrollDown();
+    you.scrollDown();
     // choose top pinned repo
     let repo = profile.repos.topPinned;
     // a DFS traversal of repo to view every file
-    me.viewProject(repo);
+    you.viewProject(repo);
     // once completed – star the repo
-    me.starProject(repo);
+    you.starProject(repo);
   }
-  else me.skip();
+  else you.skip();
 }
 ```
 
