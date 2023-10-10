@@ -1,6 +1,6 @@
 ### 👋 Hey there
 
-I'm Toby, a second-year Maths & CS undergrad @ Oxford Uni.
+I'm Toby, a third-year Maths & CS undergrad @ Oxford Uni.
 
 Some info about me:
 - Recently hooked on hackathons (like [Polygon x EasyA](https://www.easya.io/event/polygon-x-easya-hackathon), Oxhack, [ETHDenver](https://www.easya.io/event/polygon-x-easya-hackathon), [ETHGlobal Waterloo](https://ethglobal.com/showcase/tokenbound-titans-5w6oq), ETHGlobal Paris)
